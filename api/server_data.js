@@ -4,7 +4,7 @@ export default function handler(req, res) {
   // Pengaturan Target Server GTPS
   const SERVER_IP = process.env.SERVER_IP || '134.209.100.230';
   const SERVER_PORT = process.env.SERVER_PORT || '55000';
-  const LOGIN_URL = process.env.LOGIN_URL || 'felix-gtlogin.vercel.app';
+  const LOGIN_URL = process.env.LOGIN_URL || 'nuvurl.vercel.app';
   const TYPE = '1';
   const TYPE2 = '1';
 
