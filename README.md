@@ -1,6 +1,6 @@
-# 🌐 ArchGTPS Host Server Data (Pengganti `host.fyrefly.my.id`)
+# 🌐 ArchGTPS Host Server Data
 
-Source code ini berfungsi sebagai penyedia data `server_data.php` untuk APK Growtopia Firefly (seperti sistem `host.fyrefly.my.id`).
+Source code ini berfungsi sebagai penyedia data `server_data.php` untuk APK Growtopia.
 
 ---
 
