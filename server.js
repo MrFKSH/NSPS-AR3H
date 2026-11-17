@@ -13,7 +13,7 @@ const serverData = [
   `type|1`,
   `type2|1`,
   `loginurl|${LOGIN_URL}`,
-  `#maint|`,
+  `#maint|Server is currently at maintenance.`,
   `meta|nusaps`,
   `RTENDMARKERBS1001\n`
 ].join('\n');
