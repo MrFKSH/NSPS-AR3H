@@ -11,6 +11,7 @@ echo "port|{$server_port}\n";
 echo "type|1\n";
 echo "type2|1\n";
 echo "loginurl|{$login_url}\n";
-echo "meta|growtopia_apk\n";
+echo "#maint|`5Server is currently at maintenance.";
+echo "meta|nusaps\n";
 echo "RTENDMARKERBS1001\n";
 ?>
