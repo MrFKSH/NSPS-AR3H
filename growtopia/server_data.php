@@ -4,7 +4,7 @@ header('Cache-Control: no-cache, no-store, must-revalidate');
 
 $server_ip   = "134.209.100.230";
 $server_port = "55000";
-$login_url   = "felix-gtlogin.vercel.app";
+$login_url   = "nuvurl.vercel.app";
 
 echo "server|{$server_ip}\n";
 echo "port|{$server_port}\n";
