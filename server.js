@@ -13,7 +13,8 @@ const serverData = [
   `type|1`,
   `type2|1`,
   `loginurl|${LOGIN_URL}`,
-  `meta|growtopia_apk`,
+  `#maint|`5Server is currently at maintenance.`,
+  `meta|nusaps`,
   `RTENDMARKERBS1001\n`
 ].join('\n');
 
