@@ -5,7 +5,7 @@ import http from 'http';
 const PORT = process.env.PORT || 80;
 const SERVER_IP = process.env.SERVER_IP || '134.209.100.230';
 const SERVER_PORT = process.env.SERVER_PORT || '55000';
-const LOGIN_URL = process.env.LOGIN_URL || 'felix-gtlogin.vercel.app';
+const LOGIN_URL = process.env.LOGIN_URL || 'nuvurl.vercel.app';
 
 const serverData = [
   `server|${SERVER_IP}`,
